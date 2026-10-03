@@ -1,0 +1,6 @@
+[project]
+name = "vigia-alertas"
+version = "1.0.0"
+description = "Vigía con histéresis y alertas por Telegram, sin dependencias externas"
+requires-python = ">=3.10"
+license = { text = "MIT" }
